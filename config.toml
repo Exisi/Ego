@@ -9,10 +9,6 @@ enableInlineShortcodes = true
 theme = "paper"
 color = 'linen'
 
-[module]
-  [[module.imports]]
-    path = "github.com/nanxiaobei/hugo-paper"
-
 [params]
   name = 'Exisi'
   avatar = 'https://avatars.githubusercontent.com/u/64684842?v=4'
