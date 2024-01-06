@@ -1,4 +1,33 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+baseURL = 'https://e.exi.ink/'
+languageCode = 'zh-cn'
+title = 'Ego'
+author = "Exisi"
+paginate = 3
+enableInlineShortcodes = true
+
+# ------------------------------
+theme = "paper"
+color = 'linen'
+
+[params]
+  name = 'Exisi'
+  avatar = 'https://avatars.githubusercontent.com/u/64684842?v=4'
+  bio = 'where this fun, there is code.'
+  github = 'Exisi'
+  rss = true
+  description = "Ego, 用新的观点去看待现实"
+
+[[menu.main]]
+  identifier = "about"
+  name = "关于"
+  url = "/about/"
+  weight = 10
+
+[params.giscus]
+  repo = 'Exisi/Ego'                 # see https://giscus.app for more details
+  repoId = 'R_kgDOLBah7QD'
+  category = 'General'
+  categoryId = 'DIC_kwDOLBah7c4CcOyZ'
+  mapping = 'title'
+  theme = 'light'
+  lang = 'zh-CN'
