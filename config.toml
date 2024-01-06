@@ -25,7 +25,7 @@ color = 'linen'
 
 [params.giscus]
   repo = 'Exisi/Ego'                 # see https://giscus.app for more details
-  repoId = 'R_kgDOLBah7QD'
+  repoId = 'R_kgDOLBgvnA'
   category = 'General'
   categoryId = 'DIC_kwDOLBah7c4CcOyZ'
   mapping = 'title'
