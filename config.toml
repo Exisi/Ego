@@ -1,4 +1,4 @@
-baseURL = 'https://e.exi.ink/'
+baseURL = 'https://ego-hugo.netlify.app/'
 languageCode = 'zh-cn'
 title = 'Ego'
 author = "Exisi"
