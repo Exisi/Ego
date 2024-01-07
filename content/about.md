@@ -1,7 +1,6 @@
 +++
 title = "关于"
 description = "Ego, 用新的观点去看待现实"
-date = "2019-02-28"
 author = "Exisi"
 +++
 
